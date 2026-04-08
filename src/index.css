@@ -6,37 +6,37 @@
 
 @layer base {
   :root {
-    --background: 210 20% 96%;
-    --foreground: 215 25% 15%;
+    --background: 216 25% 95%;
+    --foreground: 218 40% 12%;
 
-    --card: 210 20% 98%;
-    --card-foreground: 215 25% 15%;
+    --card: 220 20% 98%;
+    --card-foreground: 218 40% 12%;
 
-    --popover: 210 20% 98%;
-    --popover-foreground: 215 25% 15%;
+    --popover: 220 20% 98%;
+    --popover-foreground: 218 40% 12%;
 
-    --primary: 215 60% 32%;
-    --primary-foreground: 210 20% 96%;
+    --primary: 218 55% 18%;
+    --primary-foreground: 216 25% 95%;
 
-    --secondary: 210 25% 88%;
-    --secondary-foreground: 215 25% 15%;
+    --secondary: 215 25% 88%;
+    --secondary-foreground: 218 40% 12%;
 
-    --muted: 210 15% 92%;
-    --muted-foreground: 215 10% 45%;
+    --muted: 216 15% 90%;
+    --muted-foreground: 218 15% 45%;
 
-    --accent: 25 85% 52%;
+    --accent: 215 50% 38%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 210 15% 85%;
-    --input: 210 15% 85%;
-    --ring: 215 60% 32%;
+    --border: 216 18% 82%;
+    --input: 216 18% 82%;
+    --ring: 218 55% 18%;
 
     --radius: 0.5rem;
 
-    --hero-overlay: linear-gradient(135deg, hsla(215, 30%, 10%, 0.8), hsla(215, 40%, 20%, 0.55));
+    --hero-overlay: linear-gradient(135deg, hsla(218, 50%, 8%, 0.85), hsla(218, 45%, 15%, 0.6));
 
     --font-display: 'Montserrat', sans-serif;
     --font-body: 'Inter', sans-serif;
