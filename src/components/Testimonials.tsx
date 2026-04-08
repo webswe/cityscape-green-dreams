@@ -3,17 +3,17 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "James T.",
-    text: "H&D Services repainted our entire exterior and it looks brand new. The crew was professional, on time, and cleaned up perfectly. Highly recommend!",
+    text: "Una de sus reseñas.",
     rating: 5,
   },
   {
     name: "Maria G.",
-    text: "They repaired rotten wood on our deck and fascia boards, then pressure washed the whole house. It's like we have a new home. Great value for the price.",
+    text: "Una de sus reseñas.",
     rating: 5,
   },
   {
     name: "Kevin W.",
-    text: "Needed drywall repair and interior painting after some water damage. H&D handled everything quickly and the finish is flawless. Will definitely call again.",
+    text: "Una de sus reseñas.",
     rating: 5,
   },
 ];
